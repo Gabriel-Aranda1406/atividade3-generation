@@ -12,3 +12,7 @@
 
 ![Resolução](https://github.com/Gabriel-Aranda1406/atividade3-generation/blob/main/pngExercicios/doWhile01.png)
 
+##  Exercício 6 :
+
+![Resolução](https://github.com/Gabriel-Aranda1406/atividade3-generation/blob/main/pngExercicios/vetor1.png)
+
